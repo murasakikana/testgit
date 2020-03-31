@@ -6,11 +6,4 @@
 aaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 on dev branch modi     111111
-<<<<<<< HEAD
-000
-||||||| merged common ancestors
-
-=======
-
-modi in remote
->>>>>>> f5af3a99d68d3f6d05e65b8cf9461cd52b2459be
+new line
