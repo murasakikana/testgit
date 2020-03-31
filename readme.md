@@ -5,13 +5,4 @@
 77777777777777777777
 aaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-<<<<<<< HEAD
-on dev branch modi     111111
-new line
-||||||| merged common ancestors
-on dev branch modi     111111
-
-=======
-fixed 404
-on dev branch modi   111111
->>>>>>> master
+new
